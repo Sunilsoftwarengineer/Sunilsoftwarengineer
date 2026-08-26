@@ -20,12 +20,12 @@
 <!-- LIVE-STATS:START -->
 | Metric | Value |
 |---|---|
-| Public repos | _pending first workflow run_ |
-| Total stars earned | _pending first workflow run_ |
-| Total forks | _pending first workflow run_ |
-| Most-used language | _pending first workflow run_ |
+| Public repos | 2 |
+| Total stars earned | 0 |
+| Total forks | 0 |
+| Most-used language | Python |
 
-<sub>Will auto-populate after the workflow's first run — see setup note below.</sub>
+<sub>Auto-updated 2026-08-26 01:37 UTC by `scripts/update_readme.py`</sub>
 <!-- LIVE-STATS:END -->
 
 <br>

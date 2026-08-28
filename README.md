@@ -20,12 +20,12 @@
 <!-- LIVE-STATS:START -->
 | Metric | Value |
 |---|---|
-| Public repos | 2 |
+| Public repos | 3 |
 | Total stars earned | 0 |
 | Total forks | 0 |
-| Most-used language | Python |
+| Most-used language | Dockerfile |
 
-<sub>Auto-updated 2026-08-26 05:02 UTC by `scripts/update_readme.py`</sub>
+<sub>Auto-updated 2026-08-28 21:13 UTC by `scripts/update_readme.py`</sub>
 <!-- LIVE-STATS:END -->
 
 <br>
